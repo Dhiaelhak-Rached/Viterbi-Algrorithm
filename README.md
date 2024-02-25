@@ -1,4 +1,4 @@
-# Project Name Readme
+# Viterbi Algorithm
 
 ## Getting Started
 
