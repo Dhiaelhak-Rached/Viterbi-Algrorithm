@@ -16,4 +16,7 @@ Follow these steps to set up and run the project on your local machine.
 
 https://github.com/Dhiaelhak-Rached/Viterbi-Algrorithm.git
 
+
+```bash
+
 cd Viterbi-Algorithm
